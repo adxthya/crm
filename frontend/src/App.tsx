@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="p-10">
       <div>
-        <p className="text-center text-4xl">Customers</p>
+        <p className="text-center text-4xl text-blue-500">Customers</p>
       </div>
       <div className="grid grid-cols-4 gap-10 py-10">
         <CustomerCard
